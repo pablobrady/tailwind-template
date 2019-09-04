@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tailwind Template
 
 You can use the [editor on GitHub](https://github.com/pablobrady/tailwind-template/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
